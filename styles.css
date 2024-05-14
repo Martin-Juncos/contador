@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.counter-container {
+  background-color: #ff5f5f;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+#header {
+  color: white;
+  text-align: center;
+}
+
+#display-count {
+  color: white;
+  font-size: 48px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  display: block;
+  width: auto;
+  margin: auto;
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
